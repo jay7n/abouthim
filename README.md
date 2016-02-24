@@ -66,5 +66,5 @@ _2009.7 - 2010.4_
 ##TASTE
 * Mac OSX / Unix-like OS fans. anti-Windows.
 * Editor(emacs/vim/sublime/atom) + Command-line(bash/fish) fans. anti-IDE.
-* Favorite sites: github.com, stackoverflow.com, news.ycombinator.com, zhihu.com, ipn.li, xkcd.com
+* Favorite sites: [github.com](), [stackoverflow.com](), [news.ycombinator.com](), [zhihu.com](), [ipn.li](), [xkcd.com]()
 * Hobbies: working out, playing guitar, brewing coffee.
