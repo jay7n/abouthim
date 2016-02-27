@@ -1,58 +1,7 @@
-#YOUCHUN LI
-
-##ABOUT HIM
-Youchun Li, (or Jayson Li in English),  
-was born on Jan 9th, 1985,  
-and lives in Shanghai, China.  
-
-* jay7n.li@outlook.com
-* github.com/jay7n
-* www.cnblogs.com/lookof
-* +86 13761843450
-
-##EDUCATION
-* Bachelor of Computer Since and Technology,  
-  [Hunan Institute Of Science And Technology](http://www.hnist.cn)  
-  _graduated in Jun, 2009_
-
-* Language Certificate:
-    * IELTS (Academic) Overall Band Score: 6.5  
-      _obtained in Aug, 2015._  
-
-##OBJECTIVE/INTERESTS
-* Goal in 2016:
-    * Mobile(iOS) devel. and/or
-    * Web(full stack) devel. and/or
-    * In-depth graphics exploring. and/or
-    * As a manager lead a small scrum team. and/or
-    * An opportunity working/living aboard. and/or
-    * High level design architect devel. and/or
-    * System low level devel, such like:
-        * memory allocation.
-        * performance improvement.
-        * computing job/task scheduling.
-        * parallel/concurrency.
-    * And/or could touch one or more new languages(to me) below:
-        * Go
-        * Swift
-        * Ruby
-
-    All the fields listed above are the ones I'm not familiar with too much, **but that's the reason** why I'm so into them recently. Feed me.  
-
-    And,
-    * Would like work under Mac OSX / Unix-like OS.
-
-##EXPERTISE/HIGHLIGHTS
-* Uses C/C++, C#, Lua, Python, Js/h5/css3, Bash/fish, (well and) Markdown as daily skills.
-* Uses _bash/fish + vim-like editor + git_ as daily developing toolchains.
-* Used to focus on OpenGL/DX, [general (realtime/offline) graphics knowledge](http://www.cnblogs.com/lookof/category/220911.html).(TODO add more notes there)
-* Tried AngularJS, Node, Swift Language for a while before.
-* Playing with Tornado, MongoDB right now in my toy project: [LinWords](https://github.com/jay7n/LinWords)
-
-##WORK EXPERIENCES
+## WORK EXPERIENCES
 #### Python/MaxScript Integration for 3ds Max, 3ds Max Team, Autodesk.
 _2015.4 - 2016.2_
-* Implemented a mechanism on its "script listener" UI that allows the user to switch between _python_ and _maxscript_ modes easily. undo/redo feature supported. [Read more...](WORKEXP.md#3dsmax_adsk_1)
+* <a name="3dsmax_adsk_1"></a>Implemented a mechanism on its "script listener" UI that allows the user to switch between _python_ and _maxscript_ modes easily. undo/redo feature supported.
     > * Massive legacy max code plus haphazard Scintilla lib transplanting left me a ugly and tangled entry-point, making it difficult to wedge a new feature.
     > * TODO there is a note explaining my work.
 
@@ -133,10 +82,3 @@ _2009.7 - 2010.4_
 * Fixed bugs, touched Ogre 3D as well as general graphics knowledge.
 * Sorry I can't recall too much details since so a long time has passed :(
 * Tech involved: C++, Ogre 3D.
-
-
-##TASTE
-* Mac OSX / Unix-like OS fans. anti-Windows.
-* Editor(emacs/vim/sublime/atom) + Command-line(bash/fish) fans. anti-IDE.
-* Favorite sites: [github.com](), [stackoverflow.com](), [news.ycombinator.com](), [zhihu.com](), [ipn.li](), [xkcd.com]()
-* Hobbies: working out, playing guitar, brewing coffee.
