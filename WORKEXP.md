@@ -66,7 +66,7 @@ _Tech involved: C++, Scons, gdb, Linux devel platform, Graphics knowledge_
 
     > * Flame works on Linux and Smoke runs on Mac Os X, and both them need to cope with thousands of millions of small geometry elements. This refers to the memory management issues on OS. we had a weird problem about (re)allocating/releasing mem during the time, and the behaviors were different on Linux and Mac.
     > * Eventually I basically got the answer after digging into them for a while. During the time I asked a [ question](http://stackoverflow.com/questions/15529643/what-does-malloc-trim0-really-mean) on the stackoverflow.
-    > * TODO there is a note related to this issue.
+    > * There is a note recording my investigation details for it, written in Chinese though. [Read it here.](http://www.cnblogs.com/lookof/archive/2013/03/26/2981768.html)
 
 * <a name="flame_adsk_3"></a>Implemented _[Action Replica Node](https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2016/ENU/Flame/files/GUID-0E1E86A5-310B-4F1F-A9C1-97E64A896AAB-htm.html)_ for Flame.
 
