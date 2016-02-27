@@ -95,6 +95,7 @@ _2013.10 - 2014.4_
     > * Displacement Map produces only as necessary as possible _control points_ due to cost concerns, which is yet not enough for a GI-level lighting map rendering. For this reason a tessellation processing was needed before sending vertices to pipes.
     > * The original algorithm from Beast team didn't refine rough vertex points, which means for a single point there are 3 vertices, 3 normals and 3 uvs corresponding to it, a simple but brutal way to bear new tessellated points.
     > * My improvement for such was to store points using _indices way_ instead, meaning we can save a lot spaces hence. The difficult point was how to produce an appropriate normal for each new-tessellated points.
+    
 * Tech involved: C++
 
 #### Feature Development for Flame/Smoke, Creative Finishing Team, Autodesk.
@@ -102,6 +103,7 @@ _2011.2 - 2013.10_
 * Fixed a series of tangled bugs resulting from "Reeler" UI positioning bias of Flame.
     > * [Flame](http://www.autodesk.com/products/flame-family)/[Smoke](http://www.autodesk.com/products/smoke) are a bundle of creative finishing tools for visual effects, focusing on post compositing and film cutting and running on Linux/Mac. There is a UI widget named "Reeler" on its desktop.
     > * After some complicated code refactor and new feature being mixed, a series of weird and tangled regression defects around "Reeler Positioning" began to keep popping up. I took a long time to track the source and fixed them systematically. The difficulty is its code base is huge, ancient and grew up unhealthy(due to the history issues). How to survive this code disaster was a key point for me to became a veteran of working in a large project.
+
 * Investigated a memory management issue for Flame/Smoke
 * Implemented "Replica" Node for Flame/Smoke.
 * Tech involved: C++, Scons, gdb, Linux devel platform
