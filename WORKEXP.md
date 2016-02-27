@@ -37,7 +37,7 @@ _Tech involved: C#, C++, QT, Chromium-CEF, AngularJS/Bootstrap, javascript/html5
 
     > * It's a front-end work of html5 web app, based on canvas drawing and AngularJS framework, as stated above.
     > * the point here was how to sync the final color value when users operate with various component of this widget.
-    > * TODO there is a note explaining my work.
+    > * There is a note explaining my work for this task, including why/how I decided the implementing design. [Read it here](notes/color_picker_in_stingray.md).
 
 And,
 
