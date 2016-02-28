@@ -6,8 +6,8 @@ was born on Jan 9th, 1985,
 and lives in Shanghai, China.  
 
 * jay7n.li@outlook.com
-* github.com/jay7n
-* www.cnblogs.com/lookof
+* [github.com/jay7n]()
+* [www.cnblogs.com/lookof]()
 * +86 13761843450
 
 
