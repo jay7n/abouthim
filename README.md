@@ -6,8 +6,8 @@ was born on Jan 9th, 1985,
 and lives in Shanghai, China.  
 
 * jay7n.li@outlook.com
-* [github.com/jay7n]()
-* [www.cnblogs.com/lookof]()
+* [github.com/jay7n](https://github.com/jay7n)
+* [www.cnblogs.com/lookof](http://www.cnblogs.com/lookof)
 * +86 13761843450
 
 
@@ -120,5 +120,11 @@ _Tech involved: C++, Ogre 3D._
 ## TASTE
 * Mac OSX / Unix-like OS fans. anti-Windows.
 * Editor(emacs/vim/sublime/atom) + Command-line(bash/fish) fans. anti-IDE.
-* Favorite sites: [github.com](), [stackoverflow.com](), [news.ycombinator.com](), [zhihu.com](), [ipn.li](), [xkcd.com]()
+* Favorite sites:
+    * [github](https://github.com/),
+    * [stackoverflow](http://stackoverflow.com/),
+    * [hacker news](https://news.ycombinator.com/news),
+    * [知乎](https://www.zhihu.com/),
+    * [IPN](http://ipn.li/),
+    * [xkcd](http://xkcd.com/)
 * Hobbies: working out, playing guitar, brewing coffee.
