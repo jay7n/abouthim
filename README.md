@@ -48,7 +48,7 @@ and lives in Shanghai, China.
 ## EXPERTISE/HIGHLIGHTS
 * Uses C/C++, C#, Lua, Python, Js/h5/css3, Bash/fish, (well and) Markdown as daily skills.
 * Uses _bash/fish + vim-like editor + git_ as daily developing toolchains.
-* Used to focus on OpenGL/DX, [general (realtime/offline) graphics knowledge](http://www.cnblogs.com/lookof/category/220911.html).(TODO add more notes there)
+* Used to focus on OpenGL/DX, [general (realtime/offline) graphics knowledge](http://www.cnblogs.com/lookof/category/220911.html).
 * Tried AngularJS, Node, Swift Language for a while before.
 * Playing with Tornado, MongoDB right now in my toy project: [LinWords](https://github.com/jay7n/LinWords)
 
