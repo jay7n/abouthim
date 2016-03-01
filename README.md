@@ -58,9 +58,9 @@ and lives in Shanghai, China.
 _2015.4 - 2016.2_  
 _Tech involved: C/C++, Python, Maxscript, Scintilla editing component._
 
-* Implemented a mechanism on its "script listener" UI that allows the user to switch between _python_ and _maxscript_ modes easily. undo/redo feature supported. [Read more...](WORKEXP.md#3dsmax_adsk_1)
+* Implemented a mechanism on its "script listener" UI that allows the user to switch between _python_ and _maxscript_ modes easily. undo/redo feature supported. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3dsmax_adsk_1)
 
-* Translated _maxscript_'s ["Context Expressions"](http://help.autodesk.com/view/3DSMAX/2016/ENU/?guid=__files_GUID_E672728A_EE15_4197_9EDD_487781167B01_htm) to the _python_'s counterpart using its "with-yield" statement. [Read more...](WORKEXP.md#3dsmax_adsk_2)
+* Translated _maxscript_'s ["Context Expressions"](http://help.autodesk.com/view/3DSMAX/2016/ENU/?guid=__files_GUID_E672728A_EE15_4197_9EDD_487781167B01_htm) to the _python_'s counterpart using its "with-yield" statement. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3dsmax_adsk_2)
 
 And,
 
@@ -70,11 +70,11 @@ And,
 _2014.4 - 2015.4_  
 _Tech involved: C#, C++, QT, Chromium-CEF, AngularJS/Bootstrap, javascript/html5/canvas/css3._
 
-* Integrated Autodesk in-house products to Stingray Editor. [Read more...](WORKEXP.md#stingray_adsk_1)
+* Integrated Autodesk in-house products to Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_1)
 
-* Implemented the _Progress Bar_ widget for Stingray Editor. [Read more...](WORKEXP.md#stingray_adsk_2)
+* Implemented the _Progress Bar_ widget for Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_2)
 
-* Implemented the _Color Picker_ Panel for Stingray Editor. [Read more...](WORKEXP.md#stingray_adsk_3)
+* Implemented the _Color Picker_ Panel for Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_3)
 
 And,
 
@@ -84,23 +84,23 @@ And,
 _2013.10 - 2014.4_  
 _Tech involved: C++, Graphics knowledge_
 
-* Implemented Tessellation Lighting Map for Displacement Map of MayaLT. [Read more...](WORKEXP.md#beast_adsk)
+* Implemented Tessellation Lighting Map for Displacement Map of MayaLT. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#beast_adsk)
 
 #### Feature Development for Flame/Smoke, Creative Finishing Team, Autodesk.
 _2011.2 - 2013.10_  
 _Tech involved: C++, Scons, gdb, Linux devel platform, Graphics knowledge_
 
-* Fixed a series of tangled bugs resulting from "Reeler" UI positioning bias of Flame. [Read more...](WORKEXP.md#flame_adsk_1)
+* Fixed a series of tangled bugs resulting from "Reeler" UI positioning bias of Flame. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_1)
 
-* Investigated a memory management issue for Flame/Smoke. [Read more...](WORKEXP.md#flame_adsk_2)
+* Investigated a memory management issue for Flame/Smoke. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_2)
 
-* Implemented _[Action Replica Node](https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2016/ENU/Flame/files/GUID-0E1E86A5-310B-4F1F-A9C1-97E64A896AAB-htm.html)_ for Flame. [Read more...](WORKEXP.md#flame_adsk_3)
+* Implemented _[Action Replica Node](https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2016/ENU/Flame/files/GUID-0E1E86A5-310B-4F1F-A9C1-97E64A896AAB-htm.html)_ for Flame. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_3)
 
 #### 3D Feature Devel for Mobile Games, 3D R&D Team, IN-FUN Corp.
 _2010.10 - 2011.2_  
 _Tech involved: C Language, a 3D game engine made in-house, Graphics knowledge._
 
-* Developed a lightweight 3D game running on a MTK mobile platform. [Read more...](WORKEXP.md#3d_infun)
+* Developed a lightweight 3D game running on a MTK mobile platform. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3d_infun)
 
 #### Feature Devel for NetGames, Client-side Team, ShenXue Corp.
 _2010.4 - 2010.10_  
