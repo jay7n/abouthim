@@ -1,3 +1,5 @@
+*[点击这里](https://github.com/jay7n/abouthim/blob/master/README_CN.md) 看此中文版本*
+
 # YOUCHUN LI
 
 ## ABOUT HIM
@@ -28,8 +30,8 @@ and lives in Shanghai, China.
     * In-depth graphics exploring. and/or
     * As a manager lead a small scrum team. and/or
     * An opportunity working/living aboard. and/or
-    * High level design architect devel. and/or
-    * System low level devel, such like:
+    * Product-Oriented design/devel. and/or
+    * Engineer-Oriented devel, such like:
         * memory allocation.
         * performance improvement.
         * computing job/task scheduling.
@@ -60,7 +62,7 @@ _Tech involved: C/C++, Python, Maxscript, Scintilla editing component._
 
 * Implemented a mechanism on its "script listener" UI that allows the user to switch between _python_ and _maxscript_ modes easily. undo/redo feature supported. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3dsmax_adsk_1)
 
-* Translated _maxscript_'s ["Context Expressions"](http://help.autodesk.com/view/3DSMAX/2016/ENU/?guid=__files_GUID_E672728A_EE15_4197_9EDD_487781167B01_htm) to the _python_'s counterpart using its "with-yield" statement. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3dsmax_adsk_2)
+* Translated _Maxscript_'s ["Context Expressions"](http://help.autodesk.com/view/3DSMAX/2016/ENU/?guid=__files_GUID_E672728A_EE15_4197_9EDD_487781167B01_htm) to the _Python_'s counterpart using its "with-yield" statement. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#3dsmax_adsk_2)
 
 And,
 
@@ -70,7 +72,7 @@ And,
 _2014.4 - 2015.4_  
 _Tech involved: C#, C++, QT, Chromium-CEF, AngularJS/Bootstrap, javascript/html5/canvas/css3._
 
-* Integrated Autodesk in-house products to Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_1)
+* Integrated Autodesk in-house services to Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_1)
 
 * Implemented the _Progress Bar_ widget for Stingray Editor. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#stingray_adsk_2)
 
@@ -78,7 +80,7 @@ _Tech involved: C#, C++, QT, Chromium-CEF, AngularJS/Bootstrap, javascript/html5
 
 And,
 
-* During this stage I've been learning English by myself, targeting IELTS.
+* During this stage I kept learning English by myself, targeting IELTS.
 
 #### Beast Lighting Renderer Integration for MayaLT, Game Group Team, Autodesk.
 _2013.10 - 2014.4_  
@@ -90,7 +92,7 @@ _Tech involved: C++, Graphics knowledge_
 _2011.2 - 2013.10_  
 _Tech involved: C++, Scons, gdb, Linux devel platform, Graphics knowledge_
 
-* Fixed a series of tangled bugs resulting from "Reeler" UI positioning bias of Flame. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_1)
+* Fixed a series of tangled bugs resulting from "Reeler" Widget positioning bias of Flame. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_1)
 
 * Investigated a memory management issue for Flame/Smoke. [Read more...](https://github.com/jay7n/abouthim/blob/master/WORKEXP.md#flame_adsk_2)
 
@@ -106,7 +108,7 @@ _Tech involved: C Language, a 3D game engine made in-house, Graphics knowledge._
 _2010.4 - 2010.10_  
 _Tech involved: C++, Ogre 3D._
 
-* Attended 3D game logic development.
+* Attended 3D game feature development.
 * Sorry I can't recall too much details since so a long time has passed :(
 
 #### Boot Camp Training, 3D R&D Team, Ourgame Corp.
@@ -118,7 +120,7 @@ _Tech involved: C++, Ogre 3D._
 
 
 ## TASTE
-* Mac OSX / Unix-like OS fans. anti-Windows.
+* Mac OS X / Unix-like OS fans. anti-Windows.
 * Editor(emacs/vim/sublime/atom) + Command-line(bash/fish) fans. anti-IDE.
 * Favorite sites:
     * [github](https://github.com/),
@@ -127,4 +129,4 @@ _Tech involved: C++, Ogre 3D._
     * [知乎](https://www.zhihu.com/),
     * [IPN](http://ipn.li/),
     * [xkcd](http://xkcd.com/)
-* Hobbies: working out, playing guitar, brewing coffee.
+* Hobbies: working out, playing guitar, post-rock genre, meditating, exploring cities, brewing coffee.
